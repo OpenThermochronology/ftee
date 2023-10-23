@@ -1,8 +1,7 @@
 ---
 ### ABOUT ftee
 
-Calculate alpha-loss correction for U-Th-Sm/He dating, using Monte-Carlo model for several symmetrical geometries for apatite, zircon, titanite/sphene, monazite and rutile. The
-geometries are: ellipsoid (includes sphere); cylinder and flattened cylinder (pinacoidal only); and tetragonal prism (pinacoidal or with optional pyramidal terminations; includes cube). The current version is 1.13.
+Calculate alpha-loss correction for U-Th-Sm/He dating, using a Monte-Carlo model for several symmetrical geometries for apatite, zircon, titanite/sphene, monazite and rutile. The geometries are: ellipsoid (includes sphere); cylinder and flattened cylinder (pinacoidal only); and tetragonal prism (pinacoidal or with optional pyramidal terminations; includes cube). The current version is 1.13.
 
 ---
 ### AUTHOR
